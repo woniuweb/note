@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "cbd10657e08464a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5a4cf8ec4fc0bc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d37761f14b284c06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-03-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-05"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "220d1143e1b723e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b524c57dabb3d36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7316f87f06bfca5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "492e40d4fd2947c7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "60e4b91cf5b3109e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "f267606ba4d7b710",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ab90ebcfd3c4a182",
+    "type": "split",
+    "children": [
+      {
+        "id": "c70c606d5484bd04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "410c5ee298a104a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日记/2026-03-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2026-03-05 的反向链接列表"
+            }
+          },
+          {
+            "id": "85d18c0471ba1e30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日记/2026-03-05.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2026-03-05 的出链列表"
+            }
+          },
+          {
+            "id": "06e33876ca1dcde7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "9978145ae5dc14ac",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "87cd7536f6f8c307",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/2026-03-05.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-03-05 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "d37761f14b284c06",
+  "lastOpenFiles": [
+    "日记/2026-03-04.md",
+    "日记/2026-03-05.md",
+    "学习总结/面试题总结.md",
+    "学习总结",
+    "未命名.canvas",
+    "日记/2026-03-03.md",
+    "日记/2026-02-28.md",
+    "请先阅读这里（Readme）.md",
+    "02笔记库/这里可以放置你的笔记.md",
+    "00演示文件夹/Excalidraw演示.excalidraw.md",
+    "模板/ZK笔记模板.md",
+    "日记/2021-12-06.md",
+    "附件/Pasted image 20210912162722.png",
+    "02笔记库/未命名.md",
+    "02笔记库/未命名.base",
+    "00演示文件夹/看板演示.md"
+  ]
+}
