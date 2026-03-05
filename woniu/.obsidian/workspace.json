@@ -174,8 +174,19 @@
               "icon": "lucide-list",
               "title": "2026-03-05 的大纲"
             }
+          },
+          {
+            "id": "ed7398d9bc58bbd8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,22 +206,25 @@
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "d37761f14b284c06",
   "lastOpenFiles": [
-    "日记/2026-03-04.md",
-    "日记/2026-03-05.md",
-    "学习总结/面试题总结.md",
-    "学习总结",
     "未命名.canvas",
+    "请先阅读这里（Readme）.md",
+    "Zettelkasten/202109121613第一张ZK笔记.md",
+    "学习总结/面试题总结.md",
+    "模板/ZK笔记模板.md",
+    "日记/2026-03-05.md",
+    "日记/2026-03-04.md",
+    "学习总结",
     "日记/2026-03-03.md",
     "日记/2026-02-28.md",
-    "请先阅读这里（Readme）.md",
     "02笔记库/这里可以放置你的笔记.md",
     "00演示文件夹/Excalidraw演示.excalidraw.md",
-    "模板/ZK笔记模板.md",
     "日记/2021-12-06.md",
     "附件/Pasted image 20210912162722.png",
     "02笔记库/未命名.md",
