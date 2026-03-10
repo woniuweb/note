@@ -11,10 +11,14 @@
             "id": "205022e0939771d4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-03-09.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "2026-03-09"
             }
           }
         ]
@@ -160,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2026-03-10.md",
+                "file": "日记/2026-03-09.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-10 的大纲"
+              "title": "2026-03-09 的大纲"
             }
           },
           {
@@ -188,9 +192,21 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "c2e017c845fe6b95",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "日记/2026-03-09.md"
+              },
+              "icon": "lucide-info",
+              "title": "2026-03-09的笔记属性"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -216,40 +232,41 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b7316f87f06bfca5",
+  "active": "205022e0939771d4",
   "lastOpenFiles": [
+    "Zettelkasten/2026 03 10.md",
+    "日记/2026-03-09.md",
+    "Zettelkasten/202603101732.md",
+    "日记/2026-03-10.md",
+    "日记/2021-12-06.md",
+    "日记/2026-02-28.md",
+    "请先阅读这里（Readme）.md",
+    "ZK笔记模板.md",
+    "模板/ZK笔记模板.md",
+    "Zettelkasten/202603二052656.md",
+    "02笔记库/工作/202603二104049.md",
+    "02笔记库/工作/202603一100845.md",
     "Zettelkasten/202603二052313.md",
     "Zettelkasten/202603二052310.md",
     "Zettelkasten/202603二052314.md",
-    "日记/2026-03-10.md",
-    "日记/2026-03-09.md",
-    "02笔记库/工作/202603二104049.md",
     "附件/book_{agyCode}_{fiscal}_{acbCode}_{mofDivCode}.zip",
-    "02笔记库/工作/202603一100845.md",
     "02笔记库/学习总结/面试题总结.md",
     "日记/2026-03-05.md",
     "02笔记库/工作/未命名.md",
-    "模板/ZK笔记模板.md",
     "日记/2026-03-04.md",
     "Zettelkasten/202603一100106.md",
     "02笔记库/工作/202603090959.md",
-    "日记/2021-12-06.md",
     "202603090959.md",
     "02笔记库/这里可以放置你的笔记.md",
     "02笔记库/工作",
-    "请先阅读这里（Readme）.md",
     "Zettelkasten/202603090950.md",
-    "日记/2026-02-28.md",
     "日记/2026-03-03.md",
     "模板",
     "Zettelkasten",
     "未命名.canvas",
     "Zettelkasten/202109121613第一张ZK笔记.md",
     "02笔记库/学习总结",
-    "00演示文件夹/Excalidraw演示.excalidraw.md",
     "附件/Pasted image 20210912162722.png",
-    "02笔记库/未命名.md",
-    "02笔记库/未命名.base",
-    "00演示文件夹/看板演示.md"
+    "02笔记库/未命名.base"
   ]
 }
