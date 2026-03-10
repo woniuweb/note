@@ -1,4 +1,5 @@
 {
   "folder": "Zettelkasten",
-  "template": "模板/ZK笔记模板"
+  "template": "模板/ZK笔记模板",
+  "format": "YYYYMMddhhmmss"
 }
