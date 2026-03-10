@@ -11,14 +11,10 @@
             "id": "205022e0939771d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02笔记库/工作/202603二104049.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "202603二104049"
+              "title": "新标签页"
             }
           }
         ]
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02笔记库/工作/202603二104049.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +109,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "202603二104049 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -123,12 +118,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02笔记库/工作/202603二104049.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "202603二104049 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -166,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/工作/202603二104049.md",
+                "file": "日记/2026-03-10.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "202603二104049 的大纲"
+              "title": "2026-03-10 的大纲"
             }
           },
           {
@@ -222,11 +216,16 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "205022e0939771d4",
+  "active": "b7316f87f06bfca5",
   "lastOpenFiles": [
-    "02笔记库/工作/202603一100845.md",
-    "02笔记库/工作/202603二104049.md",
+    "Zettelkasten/202603二052313.md",
+    "Zettelkasten/202603二052310.md",
+    "Zettelkasten/202603二052314.md",
+    "日记/2026-03-10.md",
     "日记/2026-03-09.md",
+    "02笔记库/工作/202603二104049.md",
+    "附件/book_{agyCode}_{fiscal}_{acbCode}_{mofDivCode}.zip",
+    "02笔记库/工作/202603一100845.md",
     "02笔记库/学习总结/面试题总结.md",
     "日记/2026-03-05.md",
     "02笔记库/工作/未命名.md",
