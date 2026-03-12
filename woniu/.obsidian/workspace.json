@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e5db6d82a7207c9",
+        "id": "65fe674c0d2b83fe",
         "type": "tabs",
         "children": [
           {
-            "id": "18dc7edec8eacc94",
+            "id": "df2a4eb8f6123ef2",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,13 +160,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "请先阅读这里（Readme）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "请先阅读这里（Readme） 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -194,11 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "请先阅读这里（Readme）.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "请先阅读这里（Readme）的笔记属性"
+              "title": "笔记属性"
             }
           }
         ],
@@ -228,8 +225,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b7316f87f06bfca5",
+  "active": "df2a4eb8f6123ef2",
   "lastOpenFiles": [
+    "请先阅读这里（Readme）.md",
     "模板/ZK笔记模板.md",
     "Zettelkasten/202603121002.md",
     "Zettelkasten/202603121005.md",
@@ -242,7 +240,6 @@
     "日记/2026-03-10.md",
     "日记/2021-12-06.md",
     "日记/2026-02-28.md",
-    "请先阅读这里（Readme）.md",
     "ZK笔记模板.md",
     "Zettelkasten/202603二052656.md",
     "02笔记库/工作/202603二104049.md",
