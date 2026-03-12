@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4901c81089b79032",
+        "id": "8e5db6d82a7207c9",
         "type": "tabs",
         "children": [
           {
-            "id": "205022e0939771d4",
+            "id": "18dc7edec8eacc94",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2026-03-09.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-03-09"
+              "title": "新标签页"
             }
           }
         ]
@@ -164,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "日记/2026-03-09.md",
+                "file": "请先阅读这里（Readme）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-09 的大纲"
+              "title": "请先阅读这里（Readme） 的大纲"
             }
           },
           {
@@ -199,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "日记/2026-03-09.md"
+                "file": "请先阅读这里（Readme）.md"
               },
               "icon": "lucide-info",
-              "title": "2026-03-09的笔记属性"
+              "title": "请先阅读这里（Readme）的笔记属性"
             }
           }
         ],
@@ -232,17 +228,22 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "205022e0939771d4",
+  "active": "b7316f87f06bfca5",
   "lastOpenFiles": [
-    "Zettelkasten/2026 03 10.md",
+    "模板/ZK笔记模板.md",
+    "Zettelkasten/202603121002.md",
+    "Zettelkasten/202603121005.md",
+    "Zettelkasten/202603121004.md",
+    "Zettelkasten/202603121003.md",
+    "日记/2026-03-12.md",
     "日记/2026-03-09.md",
+    "Zettelkasten/2026 03 10.md",
     "Zettelkasten/202603101732.md",
     "日记/2026-03-10.md",
     "日记/2021-12-06.md",
     "日记/2026-02-28.md",
     "请先阅读这里（Readme）.md",
     "ZK笔记模板.md",
-    "模板/ZK笔记模板.md",
     "Zettelkasten/202603二052656.md",
     "02笔记库/工作/202603二104049.md",
     "02笔记库/工作/202603一100845.md",
@@ -256,15 +257,10 @@
     "日记/2026-03-04.md",
     "Zettelkasten/202603一100106.md",
     "02笔记库/工作/202603090959.md",
-    "202603090959.md",
-    "02笔记库/这里可以放置你的笔记.md",
     "02笔记库/工作",
-    "Zettelkasten/202603090950.md",
-    "日记/2026-03-03.md",
     "模板",
     "Zettelkasten",
     "未命名.canvas",
-    "Zettelkasten/202109121613第一张ZK笔记.md",
     "02笔记库/学习总结",
     "附件/Pasted image 20210912162722.png",
     "02笔记库/未命名.base"
