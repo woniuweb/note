@@ -5,6 +5,10 @@
       "path": "日记/2026-03-19.md"
     },
     {
+      "basename": "请先阅读这里（Readme）",
+      "path": "请先阅读这里（Readme）.md"
+    },
+    {
       "basename": "面试题总结",
       "path": "02笔记库/学习总结/面试题总结.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "202603二104049",
       "path": "02笔记库/工作/202603二104049.md"
-    },
-    {
-      "basename": "请先阅读这里（Readme）",
-      "path": "请先阅读这里（Readme）.md"
     },
     {
       "basename": "ZK笔记模板",
