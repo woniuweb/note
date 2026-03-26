@@ -4,5 +4,6 @@
   "newFileLocation": "current",
   "readableLineLength": false,
   "foldHeading": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }
