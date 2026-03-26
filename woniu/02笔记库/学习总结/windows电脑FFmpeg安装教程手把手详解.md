@@ -1,4 +1,20 @@
 
+---
+title: windows电脑FFmpeg安装教程手把手详解
+aliases:
+  - FFmpeg安装教程
+tags:
+  - study
+  - ffmpeg
+  - windows
+  - tutorial
+type: resource
+status: evergreen
+created: 2026-03-26
+updated: 2026-03-26
+source:
+---
+
 一、下载&解压
 二、配置环境变量
 1、配置系统环境变量
@@ -31,3 +47,7 @@ FFmpeg是一个免费的开源程序库，一个命令行工具软件，专门�
 
 三、验证
 重新打开一个命令行窗口，输入： ffmpeg -version，有版本信息输出，则证明配置成功！！
+
+## 关联
+
+- [[学习总览]]
