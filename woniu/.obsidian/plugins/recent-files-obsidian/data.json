@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "知识库主页",
-      "path": "02笔记库/00系统/知识库主页.md"
+      "basename": "PARA说明",
+      "path": "02笔记库/00系统/PARA说明.md"
     },
     {
       "basename": "学习总览",
@@ -17,52 +17,36 @@
       "path": "02笔记库/00系统/全部笔记.base"
     },
     {
+      "basename": "看板演示",
+      "path": "00演示文件夹/看板演示.md"
+    },
+    {
+      "basename": "ZK笔记模板",
+      "path": "00演示文件夹/模板/ZK笔记模板.md"
+    },
+    {
+      "basename": "Pasted image 20260324180031",
+      "path": "附件/Pasted image 20260324180031.png"
+    },
+    {
+      "basename": "个人总览",
+      "path": "02笔记库/00系统/个人总览.md"
+    },
+    {
+      "basename": "知识库主页",
+      "path": "02笔记库/00系统/知识库主页.md"
+    },
+    {
       "basename": "笔记规范",
       "path": "02笔记库/00系统/笔记规范.md"
     },
     {
-      "basename": "windows电脑FFmpeg安装教程手把手详解",
-      "path": "02笔记库/学习总结/windows电脑FFmpeg安装教程手把手详解.md"
-    },
-    {
-      "basename": "廊坊出售房",
-      "path": "02笔记库/个人日常/廊坊出售房.md"
-    },
-    {
       "basename": "请先阅读这里（Readme）",
-      "path": "请先阅读这里（Readme）.md"
-    },
-    {
-      "basename": "面试题总结",
-      "path": "02笔记库/学习总结/面试题总结.md"
-    },
-    {
-      "basename": "近期问题",
-      "path": "02笔记库/个人日常/近期问题.md"
-    },
-    {
-      "basename": "202603121726",
-      "path": "02笔记库/工作/202603121726.md"
-    },
-    {
-      "basename": "202603二104049",
-      "path": "02笔记库/工作/202603二104049.md"
-    },
-    {
-      "basename": "ZK笔记模板",
-      "path": "模板/ZK笔记模板.md"
-    },
-    {
-      "basename": "202603一100845",
-      "path": "02笔记库/工作/202603一100845.md"
+      "path": "00演示文件夹/请先阅读这里（Readme）.md"
     },
     {
       "basename": "Excalidraw演示.excalidraw",
       "path": "00演示文件夹/Excalidraw演示.excalidraw.md"
-    },
-    {
-      "basename": "看板演示",
-      "path": "00演示文件夹/看板演示.md"
     }
   ],
   "omittedPaths": [],
