@@ -1,19 +1,4 @@
 
----
-title: windows电脑FFmpeg安装教程手把手详解
-aliases:
-  - FFmpeg安装教程
-tags:
-  - study
-  - ffmpeg
-  - windows
-  - tutorial
-type: resource
-status: evergreen
-created: 2026-03-26
-updated: 2026-03-26
-source:
----
 
 一、下载&解压
 二、配置环境变量
