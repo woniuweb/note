@@ -76,11 +76,22 @@
             "state": {
               "type": "recent-files",
               "state": {},
+              "icon": "lucide-ghost",
+              "title": "recent-files"
+            }
+          },
+          {
+            "id": "7ece815aee53c057",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
               "icon": "clock",
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -175,8 +186,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -185,8 +196,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           },
           {
@@ -221,14 +232,14 @@
       "zk-prefixer:创建时间戳笔记": false,
       "workspaces:管理工作区布局": false,
       "bases:新建数据库": false,
+      "random-note:开始漫游笔记": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
-      "github-sync:Sync with Remote": false,
-      "random-note:开始漫游笔记": false
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "c7c05ff1c45d46f5",
+  "active": "7ece815aee53c057",
   "lastOpenFiles": [
     "02笔记库/03资源/面试题总结.md",
     "02笔记库/04每日/2026-04-16.md",
