@@ -35,8 +35,7 @@
               "title": "未命名"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,13 +178,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.md",
+                "file": "02笔记库/04每日/2026-06-01.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "2026-06-01 的大纲"
             }
           },
           {
@@ -247,7 +246,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "4872becee7c1002b",
+  "active": "c7c05ff1c45d46f5",
   "lastOpenFiles": [
     "未命名.md",
     "02笔记库/04每日/2026-06-01.md",
