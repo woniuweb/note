@@ -84,7 +84,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -232,7 +233,7 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c7c05ff1c45d46f5",
+  "active": "f267606ba4d7b710",
   "lastOpenFiles": [
     "02笔记库/03资源/面试题总结.md",
     "02笔记库/04每日/2026-04-16.md",
