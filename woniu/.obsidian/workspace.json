@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "0f8f5e6754a949f8",
+        "id": "4a0a5b0fb71895e1",
         "type": "tabs",
         "children": [
           {
-            "id": "c7c05ff1c45d46f5",
+            "id": "397301239947c7bd",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "02笔记库/03资源/用友/APP系统.canvas",
-                "viewState": {
-                  "x": -93,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "02笔记库/03资源/用友/Drawing 2026-06-09 13.13.17.excalidraw.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "APP系统"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-06-09 13.13.17.excalidraw"
             }
           }
         ]
@@ -41,12 +36,14 @@
             "id": "b7316f87f06bfca5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "02笔记库/03资源/用友/未命名看板.md"
+                "file": "02笔记库/04每日/2026-06-09.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "未命名看板"
+              "icon": "lucide-file",
+              "title": "2026-06-09"
             }
           },
           {
@@ -85,12 +82,26 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "5f90232c254f4896",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 559
+    "width": 509
   },
   "right": {
     "id": "ab90ebcfd3c4a182",
@@ -166,13 +177,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/03资源/用友/未命名看板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名看板 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -234,10 +244,15 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b7316f87f06bfca5",
+  "active": "397301239947c7bd",
   "lastOpenFiles": [
+    "02笔记库/03资源/用友/Drawing 2026-06-09 13.10.48.excalidraw.md",
+    "02笔记库/03资源/用友/Drawing 2026-06-09 13.13.17.excalidraw.md",
     "02笔记库/03资源/用友/APP系统.canvas",
+    "02笔记库/03资源/用友/未命名.md",
     "02笔记库/03资源/用友/未命名看板.md",
+    "未命名.md",
+    "未命名.canvas",
     "02笔记库/04每日/2026-06-09.md",
     "02笔记库/03资源/用友/环境账号.md",
     "02笔记库/03资源/用友/环境问题.md",
@@ -253,7 +268,6 @@
     "02笔记库/04每日/2026-06-02.md",
     "02笔记库/03资源/面试/用友政务了解.md",
     "02笔记库/03资源/面试/博思财信总结.md",
-    "未命名.md",
     "02笔记库/03资源/用友",
     "02笔记库/04每日/2026-06-01.md",
     "附件/v-8.svg",
@@ -269,12 +283,9 @@
     "02笔记库/99模板/T-收集笔记.md",
     "02笔记库/99模板/T-每日笔记.md",
     "02笔记库/00系统/个人总览.md",
-    "02笔记库/00系统/工作总览.md",
     "02笔记库/00系统/全部笔记.base",
-    "02笔记库/03资源/永久笔记/FFmpeg安装教程.md",
     "02笔记库/99模板",
     "02笔记库/04每日",
-    "未命名.canvas",
     "附件/Pasted image 20260324180031.png",
     "附件/Pasted image 20260324180120.png",
     "附件/Pasted image 20260324180112.png",
