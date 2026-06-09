@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "397301239947c7bd",
+            "id": "80a7cf8caf80d5da",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "smm",
               "state": {
-                "file": "02笔记库/03资源/用友/Drawing 2026-06-09 13.13.17.excalidraw.md"
+                "file": "02笔记库/03资源/用友/MindMap 2026-06-09 13.47.42.smm.md"
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-06-09 13.13.17.excalidraw"
+              "icon": "smm-icon",
+              "title": "MindMap 2026-06-09 13.47.42.smm"
+            }
+          },
+          {
+            "id": "54678f3b583f934c",
+            "type": "leaf",
+            "state": {
+              "type": "smm",
+              "state": {
+                "file": "02笔记库/03资源/用友/MindMap 2026-06-09 13.48.06.smm.md"
+              },
+              "icon": "smm-icon",
+              "title": "MindMap 2026-06-09 13.48.06.smm"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 509
+    "width": 388
   },
   "right": {
     "id": "ab90ebcfd3c4a182",
@@ -241,19 +254,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-git:Open Git source control": false,
       "github-sync:Sync with Remote": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "simple-mind-map:新建思维导图": false
     }
   },
-  "active": "397301239947c7bd",
+  "active": "54678f3b583f934c",
   "lastOpenFiles": [
-    "02笔记库/03资源/用友/Drawing 2026-06-09 13.10.48.excalidraw.md",
-    "02笔记库/03资源/用友/Drawing 2026-06-09 13.13.17.excalidraw.md",
-    "02笔记库/03资源/用友/APP系统.canvas",
+    "02笔记库/03资源/用友/MindMap 2026-06-09 13.47.42.smm.md",
+    "02笔记库/03资源/用友/MindMap 2026-06-09 13.48.06.smm.md",
     "02笔记库/03资源/用友/未命名.md",
+    "02笔记库/03资源/用友/Drawing 2026-06-09 13.13.17.excalidraw.md",
+    "02笔记库/04每日/2026-06-09.md",
+    "02笔记库/03资源/用友/Drawing 2026-06-09 13.10.48.excalidraw.md",
+    "02笔记库/03资源/用友/APP系统.canvas",
     "02笔记库/03资源/用友/未命名看板.md",
     "未命名.md",
     "未命名.canvas",
-    "02笔记库/04每日/2026-06-09.md",
     "02笔记库/03资源/用友/环境账号.md",
     "02笔记库/03资源/用友/环境问题.md",
     "附件/24-9996-nginx 1.conf",
@@ -281,8 +297,6 @@
     "02笔记库/99模板/T-永久笔记.md",
     "02笔记库/99模板/T-项目笔记.md",
     "02笔记库/99模板/T-收集笔记.md",
-    "02笔记库/99模板/T-每日笔记.md",
-    "02笔记库/00系统/个人总览.md",
     "02笔记库/00系统/全部笔记.base",
     "02笔记库/99模板",
     "02笔记库/04每日",
