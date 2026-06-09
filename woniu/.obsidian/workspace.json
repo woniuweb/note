@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "80a7cf8caf80d5da",
-            "type": "leaf",
-            "state": {
-              "type": "smm",
-              "state": {
-                "file": "02笔记库/03资源/用友/MindMap 2026-06-09 13.47.42.smm.md"
-              },
-              "icon": "smm-icon",
-              "title": "MindMap 2026-06-09 13.47.42.smm"
-            }
-          },
-          {
             "id": "54678f3b583f934c",
             "type": "leaf",
             "state": {
               "type": "smm",
               "state": {
-                "file": "02笔记库/03资源/用友/MindMap 2026-06-09 13.48.06.smm.md"
+                "file": "02笔记库/03资源/用友/模块.smm.md"
               },
               "icon": "smm-icon",
-              "title": "MindMap 2026-06-09 13.48.06.smm"
+              "title": "模块.smm"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,7 +248,7 @@
   "active": "54678f3b583f934c",
   "lastOpenFiles": [
     "02笔记库/03资源/用友/MindMap 2026-06-09 13.47.42.smm.md",
-    "02笔记库/03资源/用友/MindMap 2026-06-09 13.48.06.smm.md",
+    "02笔记库/03资源/用友/模块.smm.md",
     "02笔记库/03资源/用友/未命名.md",
     "02笔记库/03资源/用友/Drawing 2026-06-09 13.13.17.excalidraw.md",
     "02笔记库/04每日/2026-06-09.md",
