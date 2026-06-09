@@ -21,7 +21,10 @@
   "compressImageIsTransparent": false,
   "embedDblClickNewWindow": true,
   "autoSaveTime": 5,
-  "mindMapConfig": null,
+  "mindMapConfig": {
+    "openRealtimeRenderOnNodeTextEdit": true,
+    "enableFreeDrag": true
+  },
   "mindMapLocalConfig": {
     "isZenMode": false,
     "useLeftKeySelectionRightKeyDrag": false,
