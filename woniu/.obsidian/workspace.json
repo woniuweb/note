@@ -11,14 +11,17 @@
             "id": "c7c05ff1c45d46f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "02笔记库/04每日/2026-06-09.md",
-                "mode": "source",
-                "source": false
+                "file": "02笔记库/03资源/用友/APP系统.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "2026-06-09"
+              "icon": "lucide-layout-dashboard",
+              "title": "APP系统"
             }
           }
         ]
@@ -164,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/04每日/2026-06-09.md",
+                "file": "02笔记库/03资源/用友/APP系统.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-09 的大纲"
+              "title": "APP系统 的大纲"
             }
           },
           {
@@ -234,8 +237,9 @@
   },
   "active": "c7c05ff1c45d46f5",
   "lastOpenFiles": [
-    "02笔记库/03资源/用友/环境账号.md",
     "02笔记库/04每日/2026-06-09.md",
+    "02笔记库/03资源/用友/APP系统.canvas",
+    "02笔记库/03资源/用友/环境账号.md",
     "02笔记库/03资源/用友/环境问题.md",
     "附件/24-9996-nginx 1.conf",
     "附件/24-v3r6-8886-nginx 1.conf",
@@ -269,7 +273,6 @@
     "02笔记库/00系统/全部笔记.base",
     "02笔记库/03资源/永久笔记/FFmpeg安装教程.md",
     "02笔记库/04每日/2026-03-26.md",
-    "02笔记库/02领域/学习成长.md",
     "02笔记库/99模板",
     "02笔记库/04每日",
     "未命名.canvas",
