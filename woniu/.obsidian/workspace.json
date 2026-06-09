@@ -15,7 +15,7 @@
               "state": {
                 "file": "02笔记库/03资源/用友/APP系统.canvas",
                 "viewState": {
-                  "x": 0,
+                  "x": -93,
                   "y": 0,
                   "zoom": 0
                 }
@@ -41,13 +41,12 @@
             "id": "b7316f87f06bfca5",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "kanban",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "file": "02笔记库/03资源/用友/未命名看板.md"
               },
-              "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "icon": "blocks",
+              "title": "未命名看板"
             }
           },
           {
@@ -91,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 559
   },
   "right": {
     "id": "ab90ebcfd3c4a182",
@@ -167,13 +166,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/03资源/用友/APP系统.canvas",
+                "file": "02笔记库/03资源/用友/未命名看板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "APP系统 的大纲"
+              "title": "未命名看板 的大纲"
             }
           },
           {
@@ -235,10 +234,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "c7c05ff1c45d46f5",
+  "active": "b7316f87f06bfca5",
   "lastOpenFiles": [
-    "02笔记库/04每日/2026-06-09.md",
     "02笔记库/03资源/用友/APP系统.canvas",
+    "02笔记库/03资源/用友/未命名看板.md",
+    "02笔记库/04每日/2026-06-09.md",
     "02笔记库/03资源/用友/环境账号.md",
     "02笔记库/03资源/用友/环境问题.md",
     "附件/24-9996-nginx 1.conf",
@@ -272,7 +272,6 @@
     "02笔记库/00系统/工作总览.md",
     "02笔记库/00系统/全部笔记.base",
     "02笔记库/03资源/永久笔记/FFmpeg安装教程.md",
-    "02笔记库/04每日/2026-03-26.md",
     "02笔记库/99模板",
     "02笔记库/04每日",
     "未命名.canvas",
