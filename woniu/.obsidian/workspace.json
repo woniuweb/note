@@ -11,14 +11,12 @@
             "id": "54678f3b583f934c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "smm",
               "state": {
-                "file": "02笔记库/03资源/用友/公司文档/YonDiF-Skill开发规范手册.md",
-                "mode": "preview",
-                "source": false
+                "file": "02笔记库/03资源/用友/APP模块导览.smm.md"
               },
-              "icon": "lucide-file",
-              "title": "YonDiF-Skill开发规范手册"
+              "icon": "smm-icon",
+              "title": "APP模块导览.smm"
             }
           }
         ]
@@ -179,13 +177,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/03资源/用友/公司文档/YonDiF-Skill开发规范手册.md",
+                "file": "02笔记库/03资源/用友/APP模块导览.smm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "YonDiF-Skill开发规范手册 的大纲"
+              "title": "APP模块导览.smm 的大纲"
             }
           },
           {
@@ -250,12 +248,12 @@
   },
   "active": "54678f3b583f934c",
   "lastOpenFiles": [
-    "02笔记库/03资源/用友/公司文档/skill设计架构图.jpg",
+    "02笔记库/03资源/用友/环境账号.md",
     "02笔记库/03资源/用友/公司文档/YonDiF-Skill开发规范手册.md",
+    "02笔记库/03资源/用友/公司文档/skill设计架构图.jpg",
     "02笔记库/03资源/用友/环境问题.md",
     "02笔记库/03资源/用友/APP模块导览.smm.md",
     "02笔记库/03资源/用友/公司文档",
-    "02笔记库/03资源/用友/环境账号.md",
     "02笔记库/03资源/用友/MindMap 2026-06-09 13.47.42.smm.md",
     "02笔记库/03资源/用友/未命名.md",
     "02笔记库/03资源/用友/Drawing 2026-06-09 13.13.17.excalidraw.md",
