@@ -11,12 +11,14 @@
             "id": "54678f3b583f934c",
             "type": "leaf",
             "state": {
-              "type": "smm",
+              "type": "markdown",
               "state": {
-                "file": "02笔记库/03资源/用友/APP模块导览.smm.md"
+                "file": "02笔记库/04每日/2026-06-11.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "smm-icon",
-              "title": "APP模块导览.smm"
+              "icon": "lucide-file",
+              "title": "2026-06-11"
             }
           }
         ]
@@ -177,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/03资源/用友/APP模块导览.smm.md",
+                "file": "02笔记库/04每日/2026-06-11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "APP模块导览.smm 的大纲"
+              "title": "2026-06-11 的大纲"
             }
           },
           {
@@ -248,11 +250,13 @@
   },
   "active": "54678f3b583f934c",
   "lastOpenFiles": [
+    "02笔记库/04每日/2026-06-10.md",
+    "02笔记库/04每日/2026-06-11.md",
+    "02笔记库/03资源/用友/APP模块导览.smm.md",
     "02笔记库/03资源/用友/环境账号.md",
     "02笔记库/03资源/用友/公司文档/YonDiF-Skill开发规范手册.md",
     "02笔记库/03资源/用友/公司文档/skill设计架构图.jpg",
     "02笔记库/03资源/用友/环境问题.md",
-    "02笔记库/03资源/用友/APP模块导览.smm.md",
     "02笔记库/03资源/用友/公司文档",
     "02笔记库/03资源/用友/MindMap 2026-06-09 13.47.42.smm.md",
     "02笔记库/03资源/用友/未命名.md",
@@ -285,7 +289,6 @@
     "02笔记库/03资源/永久笔记/ai",
     "02笔记库/03资源/面试题总结.md",
     "02笔记库/04每日/2026-04-16.md",
-    "02笔记库/99模板/T-永久笔记.md",
     "02笔记库/00系统/全部笔记.base",
     "02笔记库/99模板",
     "附件/Pasted image 20260324180031.png",
