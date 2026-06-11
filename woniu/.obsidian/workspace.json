@@ -11,17 +11,28 @@
             "id": "54678f3b583f934c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "smm",
               "state": {
-                "file": "02笔记库/03资源/用友/环境问题.md",
-                "mode": "source",
-                "source": false
+                "file": "02笔记库/03资源/用友/项目/APP/APP模块导览.smm.md"
               },
-              "icon": "lucide-file",
-              "title": "环境问题"
+              "icon": "smm-icon",
+              "title": "APP模块导览.smm"
+            }
+          },
+          {
+            "id": "8f219902b676f72d",
+            "type": "leaf",
+            "state": {
+              "type": "smm",
+              "state": {
+                "file": "02笔记库/03资源/用友/项目/APP/APP模块导览.smm.md"
+              },
+              "icon": "smm-icon",
+              "title": "APP模块导览.smm"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02笔记库/03资源/用友/环境问题.md",
+                "file": "02笔记库/03资源/用友/项目/APP/APP模块导览.smm.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "环境问题 的大纲"
+              "title": "APP模块导览.smm 的大纲"
             }
           },
           {
@@ -248,15 +259,19 @@
       "simple-mind-map:新建思维导图": false
     }
   },
-  "active": "54678f3b583f934c",
+  "active": "8f219902b676f72d",
   "lastOpenFiles": [
+    "02笔记库/03资源/用友/项目/PC/MindMap 2026-06-11 10.48.58.smm.md",
+    "02笔记库/03资源/用友/项目/APP/APP模块导览.smm.md",
+    "02笔记库/03资源/用友/项目/PC",
+    "02笔记库/03资源/用友/项目/APP",
+    "02笔记库/03资源/用友/项目",
+    "02笔记库/03资源/用友/环境问题.md",
     "02笔记库/03资源/用友/公司文档/YonDiF-Skill开发规范手册.md",
     "02笔记库/03资源/用友/公司文档/skill设计架构图.jpg",
     "02笔记库/04每日/2026-06-11.md",
     "02笔记库/04每日/2026-06-10.md",
-    "02笔记库/03资源/用友/APP模块导览.smm.md",
     "02笔记库/03资源/用友/环境账号.md",
-    "02笔记库/03资源/用友/环境问题.md",
     "02笔记库/03资源/用友/公司文档",
     "02笔记库/03资源/用友/MindMap 2026-06-09 13.47.42.smm.md",
     "02笔记库/03资源/用友/未命名.md",
@@ -286,10 +301,7 @@
     "02笔记库/03资源/面试/二面经验.md",
     "02笔记库/03资源/面试",
     "02笔记库/03资源/永久笔记/ai/skill编写规范.md",
-    "02笔记库/03资源/永久笔记/ai",
     "02笔记库/03资源/面试题总结.md",
-    "02笔记库/00系统/全部笔记.base",
-    "02笔记库/99模板",
     "附件/Pasted image 20260324180031.png",
     "附件/Pasted image 20260324180120.png",
     "附件/Pasted image 20260324180112.png",
