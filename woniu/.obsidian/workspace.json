@@ -8,33 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54678f3b583f934c",
-            "type": "leaf",
-            "state": {
-              "type": "smm",
-              "state": {
-                "file": "02笔记库/03资源/用友/项目/APP/APP模块导览.smm.md"
-              },
-              "icon": "smm-icon",
-              "title": "APP模块导览.smm"
-            }
-          },
-          {
             "id": "8f219902b676f72d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/03资源/用友/环境问题.md",
+                "file": "02笔记库/04每日/2026-06-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "环境问题"
+              "title": "2026-06-22"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -263,12 +250,14 @@
   },
   "active": "8f219902b676f72d",
   "lastOpenFiles": [
+    "02笔记库/03资源/用友/项目/APP/APP模块导览.smm.md",
+    "02笔记库/04每日/2026-06-22.md",
+    "02笔记库/04每日/2026-06-09.md",
+    "02笔记库/03资源/用友/环境问题.md",
     "附件/nginx24-v3r6-8886.conf",
     "02笔记库/03资源/用友/环境账号.md",
-    "02笔记库/03资源/用友/环境问题.md",
     "02笔记库/04每日/2026-06-15.md",
     "02笔记库/04每日/2026-06-12.md",
-    "02笔记库/03资源/用友/项目/APP/APP模块导览.smm.md",
     "02笔记库/03资源/用友/项目/PC/PC模块导览.smm.md",
     "02笔记库/03资源/用友/项目/PC/MindMap 2026-06-11 10.48.58.smm.md",
     "02笔记库/03资源/用友/项目/PC",
@@ -282,7 +271,6 @@
     "02笔记库/03资源/用友/MindMap 2026-06-09 13.47.42.smm.md",
     "02笔记库/03资源/用友/未命名.md",
     "02笔记库/03资源/用友/Drawing 2026-06-09 13.13.17.excalidraw.md",
-    "02笔记库/04每日/2026-06-09.md",
     "02笔记库/03资源/用友/Drawing 2026-06-09 13.10.48.excalidraw.md",
     "02笔记库/03资源/用友/APP系统.canvas",
     "02笔记库/03资源/用友/未命名看板.md",
@@ -303,7 +291,6 @@
     "02笔记库/03资源/用友",
     "附件/v-8.svg",
     "附件/v-8 1.svg",
-    "02笔记库/03资源/面试",
     "附件/Pasted image 20260324180031.png",
     "附件/Pasted image 20260324180120.png",
     "附件/Pasted image 20260324180112.png",
