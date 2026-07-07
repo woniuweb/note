@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/04每日/2026-07-06.md",
+                "file": "02笔记库/03资源/永久笔记/Codex 代理流程总结.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-06"
+              "title": "Codex 代理流程总结"
             }
           }
         ]
@@ -40,12 +40,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02笔记库/04每日/2026-06-09.md",
+                "file": "02笔记库/04每日/2026-07-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-09"
+              "title": "2026-07-07"
             }
           },
           {
@@ -99,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -248,13 +248,15 @@
       "simple-mind-map:新建思维导图": false
     }
   },
-  "active": "8f219902b676f72d",
+  "active": "f267606ba4d7b710",
   "lastOpenFiles": [
-    "02笔记库/04每日/2026-07-02.md",
+    "02笔记库/04每日/2026-07-07.md",
+    "02笔记库/03资源/永久笔记/Codex 代理流程总结.md",
+    "02笔记库/04每日/2026-06-09.md",
     "02笔记库/04每日/2026-07-06.md",
+    "02笔记库/04每日/2026-07-02.md",
     "02笔记库/04每日/2026-07-01.md",
     "02笔记库/04每日/2026-06-30.md",
-    "02笔记库/04每日/2026-06-09.md",
     "02笔记库/03资源/用友/NGINX环境总结.md",
     "附件/nginx-v3r6-ys.conf",
     "附件/nginx-8082.conf",
@@ -287,8 +289,6 @@
     "附件/24-9996-nginx 1.conf",
     "附件/24-v3r6-8886-nginx 1.conf",
     "附件/24-v3r6-8886-nginx.conf",
-    "02笔记库/04每日/2026-06-08.md",
-    "02笔记库/04每日/2026-06-05.md",
     "附件/v-8.svg",
     "附件/v-8 1.svg",
     "附件/Pasted image 20260324180031.png",
