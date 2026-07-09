@@ -1,0 +1,20 @@
+body {
+  --background-primary: transparent;
+  --background-secondary: transparent;
+}
+
+.workspace {
+  background-image: url("file:///C:/Users/86182/Desktop/lm/gpt-lm.png");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.workspace-split,
+.workspace-tabs,
+.workspace-leaf,
+.workspace-leaf-content,
+.markdown-source-view,
+.markdown-preview-view {
+  background: rgba(0, 0, 0, 0.35);
+}
