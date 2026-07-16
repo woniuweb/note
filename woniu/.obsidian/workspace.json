@@ -11,12 +11,14 @@
             "id": "785b0db077084a0e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "附件/Pasted image 20260324180031.png"
+                "file": "02笔记库/03资源/用友/项目/湖南/API(1).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260324180031"
+              "icon": "lucide-file",
+              "title": "API(1)"
             }
           }
         ]
@@ -253,8 +255,16 @@
       "simple-mind-map:新建思维导图": false
     }
   },
-  "active": "5f90232c254f4896",
+  "active": "785b0db077084a0e",
   "lastOpenFiles": [
+    "附件/Pasted image 20260324180031.png",
+    "02笔记库/03资源/用友/项目/湖南/资料说明.docx",
+    "02笔记库/03资源/用友/项目/湖南/文档.txt",
+    "02笔记库/03资源/用友/项目/湖南/数据库表(1)(1).xlsx",
+    "02笔记库/03资源/用友/项目/湖南/国资监督V7.html",
+    "02笔记库/03资源/用友/项目/湖南/国资监督_需求说明书V2.0（基于国资监督V7.html）.docx",
+    "02笔记库/03资源/用友/项目/湖南/API(1).md",
+    "02笔记库/03资源/用友/项目/湖南",
     "附件/Pasted image 20260324180112.png",
     "附件/Pasted image 20260324180120.png",
     "附件/v-8 1.svg",
@@ -286,18 +296,10 @@
     "02笔记库/03资源/用友/项目/PC/PC模块导览.smm.md",
     "02笔记库/03资源/用友/项目/PC/MindMap 2026-06-11 10.48.58.smm.md",
     "02笔记库/03资源/用友/项目/PC",
-    "02笔记库/03资源/用友/项目/APP",
-    "02笔记库/03资源/用友/项目",
-    "02笔记库/03资源/用友/公司文档/YonDiF-Skill开发规范手册.md",
     "02笔记库/03资源/用友/公司文档/skill设计架构图.jpg",
-    "02笔记库/03资源/用友/公司文档",
     "02笔记库/03资源/用友/APP系统.canvas",
     "未命名.canvas",
-    "附件/24-9996-nginx 1.conf",
-    "附件/24-v3r6-8886-nginx 1.conf",
-    "附件/24-v3r6-8886-nginx.conf",
     "附件/v-8.svg",
-    "附件/Pasted image 20260324180031.png",
     "附件/Pasted image 20260324180046.png",
     "附件/Pasted image 20210912162722.png"
   ]
