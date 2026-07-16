@@ -11,14 +11,12 @@
             "id": "785b0db077084a0e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "02笔记库/04每日/2026-07-15.md",
-                "mode": "source",
-                "source": false
+                "file": "附件/Pasted image 20260324180031.png"
               },
-              "icon": "lucide-file",
-              "title": "2026-07-15"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260324180031"
             }
           }
         ]
@@ -92,7 +90,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -255,10 +253,13 @@
       "simple-mind-map:新建思维导图": false
     }
   },
-  "active": "785b0db077084a0e",
+  "active": "5f90232c254f4896",
   "lastOpenFiles": [
-    "02笔记库/04每日/2026-07-14.md",
+    "附件/Pasted image 20260324180112.png",
+    "附件/Pasted image 20260324180120.png",
+    "附件/v-8 1.svg",
     "02笔记库/04每日/2026-07-15.md",
+    "02笔记库/04每日/2026-07-14.md",
     "02笔记库/04每日/2026-07-07.md",
     "02笔记库/04每日/2026-07-13.md",
     "02笔记库/03资源/用友/服务器服务启动命令.md",
@@ -289,7 +290,6 @@
     "02笔记库/03资源/用友/项目",
     "02笔记库/03资源/用友/公司文档/YonDiF-Skill开发规范手册.md",
     "02笔记库/03资源/用友/公司文档/skill设计架构图.jpg",
-    "02笔记库/04每日/2026-06-11.md",
     "02笔记库/03资源/用友/公司文档",
     "02笔记库/03资源/用友/APP系统.canvas",
     "未命名.canvas",
@@ -297,10 +297,7 @@
     "附件/24-v3r6-8886-nginx 1.conf",
     "附件/24-v3r6-8886-nginx.conf",
     "附件/v-8.svg",
-    "附件/v-8 1.svg",
     "附件/Pasted image 20260324180031.png",
-    "附件/Pasted image 20260324180120.png",
-    "附件/Pasted image 20260324180112.png",
     "附件/Pasted image 20260324180046.png",
     "附件/Pasted image 20210912162722.png"
   ]
