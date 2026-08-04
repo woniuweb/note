@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-08-04",
+      "path": "02笔记库/04每日/2026-08-04.md"
+    },
+    {
       "basename": "NGINX环境总结",
       "path": "02笔记库/03资源/用友/NGINX环境总结.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "T-项目笔记",
       "path": "02笔记库/99模板/T-项目笔记.md"
-    },
-    {
-      "basename": "T-收集笔记",
-      "path": "02笔记库/99模板/T-收集笔记.md"
     }
   ],
   "omittedPaths": [],
