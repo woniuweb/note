@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#📜",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249
+    "width": 200
   },
   "right": {
     "id": "ab90ebcfd3c4a182",
